@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "db_vascomm",
+      "host": "localhost",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "db_name",
+      "host": "localhost",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "db_name",
+      "host": "localhost",
+      "port": 5432,
+      "dialect": "postgres"
+    }
+  }
+  
